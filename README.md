@@ -66,8 +66,7 @@ The data used as input is coming from the following sources:
 ### **Step 1: The code is located here**
 The code is available as follows:
 * Part 1: [Python/Pandas](002-Python_&_SQL_Code/001_Data_Cleaning.ipynb)
-* Part 2: [SQL](002-Python_&_SQL_Code/002_Covid_Tables.sql)
-          [SQL](002-Python_&_SQL_Code/003_Covid_Queries.sql)
+* Part 2: [SQL_Tables](002-Python_&_SQL_Code/002_Covid_Tables.sql) & [SQL_Queries](002-Python_&_SQL_Code/003_Covid_Queries.sql)
 
 
 ### **Step 2: Extract all files & run the code**
