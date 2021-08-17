@@ -1,0 +1,27 @@
+,province,date,cumulative_testing,category
+0,Alberta,2020-03-01,7108,testing
+1,Alberta,2020-04-01,53141,testing
+2,BC,2020-03-01,6326,testing
+3,BC,2020-04-01,44639,testing
+4,Manitoba,2020-03-01,400,testing
+5,Manitoba,2020-04-01,10044,testing
+6,NL,2020-03-01,161,testing
+7,NL,2020-04-01,2816,testing
+8,NWT,2020-03-01,0,testing
+9,NWT,2020-04-01,1109,testing
+10,New Brunswick,2020-03-01,0,testing
+11,New Brunswick,2020-04-01,4030,testing
+12,Nova Scotia,2020-03-01,418,testing
+13,Nova Scotia,2020-04-01,6764,testing
+14,Nunavut,2020-03-01,0,testing
+15,Nunavut,2020-04-01,290,testing
+16,Ontario,2020-03-01,8465,testing
+17,Ontario,2020-04-01,57874,testing
+18,PEI,2020-03-01,78,testing
+19,PEI,2020-04-01,870,testing
+20,Quebec,2020-03-01,0,testing
+21,Quebec,2020-04-01,75463,testing
+22,Saskatchewan,2020-03-01,796,testing
+23,Saskatchewan,2020-04-01,10528,testing
+24,Yukon,2020-03-01,0,testing
+25,Yukon,2020-04-01,722,testing
