@@ -1,0 +1,40 @@
+,province,date,cumulative_recovered,category
+0,Alberta,2020-02-01,0,recovered
+1,Alberta,2020-03-01,0,recovered
+2,Alberta,2020-04-01,142,recovered
+3,BC,2020-02-01,0,recovered
+4,BC,2020-03-01,4,recovered
+5,BC,2020-04-01,606,recovered
+6,Manitoba,2020-02-01,0,recovered
+7,Manitoba,2020-03-01,0,recovered
+8,Manitoba,2020-04-01,4,recovered
+9,NL,2020-02-01,0,recovered
+10,NL,2020-03-01,0,recovered
+11,NL,2020-04-01,10,recovered
+12,NWT,2020-02-01,0,recovered
+13,NWT,2020-03-01,0,recovered
+14,NWT,2020-04-01,0,recovered
+15,New Brunswick,2020-02-01,0,recovered
+16,New Brunswick,2020-03-01,0,recovered
+17,New Brunswick,2020-04-01,14,recovered
+18,Nova Scotia,2020-02-01,0,recovered
+19,Nova Scotia,2020-03-01,0,recovered
+20,Nova Scotia,2020-04-01,11,recovered
+21,Nunavut,2020-02-01,0,recovered
+22,Nunavut,2020-03-01,0,recovered
+23,Nunavut,2020-04-01,0,recovered
+24,Ontario,2020-02-01,1,recovered
+25,Ontario,2020-03-01,3,recovered
+26,Ontario,2020-04-01,689,recovered
+27,PEI,2020-02-01,0,recovered
+28,PEI,2020-03-01,0,recovered
+29,PEI,2020-04-01,3,recovered
+30,Quebec,2020-02-01,0,recovered
+31,Quebec,2020-03-01,0,recovered
+32,Quebec,2020-04-01,155,recovered
+33,Saskatchewan,2020-02-01,0,recovered
+34,Saskatchewan,2020-03-01,0,recovered
+35,Saskatchewan,2020-04-01,30,recovered
+36,Yukon,2020-02-01,0,recovered
+37,Yukon,2020-03-01,0,recovered
+38,Yukon,2020-04-01,3,recovered
