@@ -5,7 +5,7 @@ In this assignment, the objective is to:
 * Step 2: use SQL code and pgAdmin to upload the data into tables, then generate queries
 
 <p align="center">
-  <img src="Economic-Influencers-23rd-April.jpg">
+  <img src="imgEconomic-Influencers-23rd-April.jpg">
 </p>
 
 ## **1. Authors**
@@ -92,6 +92,10 @@ Not applicable
 ## **9. Expected result**
 
 The outcome should be similar to the below:
+
+<p align="center">
+  <img src="imgSystem_Architecture.png">
+</p> 
 
 <p align="center">
   <img src="Query_1.png">
