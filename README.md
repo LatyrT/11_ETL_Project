@@ -11,8 +11,8 @@ In this assignment, the objective is to:
 ## **1. Authors**
 
 This project was created and authored by:
-* **Stephen Zhang** [GitHub](https://github.com/stephen823)
 * **Latyr Thiao**
+* **Stephen Zhang** [GitHub](https://github.com/stephen823)
 
 
 ## **2. Requirements / Specifications**
@@ -34,7 +34,7 @@ The following key will be required:
 The assumption here is that your computer is running on Windows 10.
 Feel free to adjust if you are using a Mac OS or any other operating system.
 
-What things you need to install the software and how to install them:
+What software do you need and how to install them?
 
 * Python, with module named pandas, psycopg2, matplotlib & config 
 * Anaconda
@@ -80,6 +80,7 @@ The code is available as follows:
 ## **7. User Acceptance Testing**
 
 Acceptence criteria:  
+* [See instructions](000-Instructions)
 * The entire process must be automated, except for the loading of data in the database
 * Use of a database
 
